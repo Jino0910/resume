@@ -1,10 +1,4 @@
-#기술경력서
-
-
-##목차
-
-[TOC]
-
+# 기술경력서
 
 ## 링크
 
@@ -14,6 +8,16 @@ Bitbucket : https://bitbucket.org/rowkaxl
 
 Blog : https://medium.com/@rowkaxl (medium으로 옮기는중)
 
+## 목차 
+<!--toc start-->
+   * [링크](#링크)
+   * [목차](#목차)
+   * [경력](#경력)
+   * [회사 프로젝트](#회사-프로젝트)
+      * [보맵](#보맵)
+      * [설계사용 보맵](#설계사용-보맵)
+      * [PandoraTV](#PandoraTV)
+<!--/toc end-->
 
 ## 경력
 
