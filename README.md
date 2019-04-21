@@ -121,6 +121,12 @@ Blog : https://medium.com/@rowkaxl (medium으로 옮기는중)
 
 <img src="images/lexus/1.PNG" width="160"/> <img src="images/lexus/2.PNG" width="160"/> <img src="images/lexus/3.PNG" width="160"/>
 
+### 에이미존
+- 소속 : 아이패밀리SC 
+- 역할 : 웹 개발
+- 사용기술 : php, codeigniter, mysql, jquery, css, html
+- <http://www.amyzon.co.kr/>
+
 ### 파크히어
 - 소속 : 에이엔티홀딩스
 - 역할 : iOS 앱 개발
