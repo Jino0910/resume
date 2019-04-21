@@ -17,6 +17,10 @@ Blog : https://medium.com/@rowkaxl (medium으로 옮기는중)
       * [보맵](#보맵)
       * [설계사용 보맵](#설계사용-보맵)
       * [PandoraTV](#PandoraTV)
+   * [개인 프로젝트](#개인-프로젝트)
+      * [WorkinMap](#WorkinMap)
+      * [CYANO](#CYANO)
+      * [Youth](#Youth)
 <!--/toc end-->
 
 ## 경력
@@ -64,3 +68,42 @@ Blog : https://medium.com/@rowkaxl (medium으로 옮기는중)
 - AppStore (https://itunes.apple.com/kr/app/pandoratv/id402122832?mt=8)
 
 <img src="images/pandoratv/pandora1.jpg" width="160"/> <img src="images/pandoratv/pandora2.jpg" width="160"/> <img src="images/pandoratv/pandora3.jpg" width="160"/> <img src="images/pandoratv/pandora4.jpg" width="160"/> <img src="images/pandoratv/pandora5.jpg" width="160"/>
+
+## 개인 프로젝트
+
+### WorkinMap 
+
+거래처 관리 지도
+
+- 기간: 2016/11/1 ~ 2017/01/31
+- 사용기술 : Objectivce-c, Googlemap clustering, Firebase
+- AppStore (https://itunes.apple.com/kr/app/work-in-map-wokinmaeb-eobmu/id1181774972?mt=8)
+
+<img src="images/workinmap/workinmap1.jpeg" width="160"/> <img src="images/workinmap/workinmap2.jpeg" width="160"/> <img src="images/workinmap/workinmap3.jpeg" width="160"/> <img src="images/workinmap/workinmap4.jpeg" width="160"/> <img src="images/workinmap/workinmap5.jpeg" width="160"/>
+
+### CYANO
+
+수중 다이버들의 기록을 저장하기 위한 앱
+
+- 사용기술 : Objectivce-c, Ble4.0 Protocol Network
+- AppStore (https://itunes.apple.com/kr/app/cyano-divecomputer/id1300443116?mt=8)
+
+<img src="images/watoom/1.png" width="160"/> <img src="images/watoom/2.png" width="160"/> <img src="images/watoom/3.png" width="160"/>
+
+### Youth
+
+전자스케이트보드 속도 조절 컨트롤러앱
+
+- 사용기술 : Objectivce-c, Ble4.0 Protocol Network
+- 앱 서비스 종료
+
+<img src="images/es/1.PNG" width="160"/> <img src="images/es/2.PNG" width="160"/> <img src="images/es/3.PNG" width="160"/> <img src="images/es/4.PNG" width="160"/>
+
+### 힐스킨
+
+피부의 범위를 측정할 수 있도록 특수 제작된 힐스킨 렌즈를 스마트폰의 고화질 카메라에 연결하여 자신의 피부 상태체크
+
+- 사용기술 : Objective-c
+- AppStore (https://itunes.apple.com/kr/app/healskin/id1050898124?mt=8)
+
+<img src="images/healskin/1.PNG" width="160"/> <img src="images/healskin/2.PNG" width="160"/> <img src="images/healskin/3.PNG" width="160"/> <img src="images/healskin/4.PNG" width="160"/>
