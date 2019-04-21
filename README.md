@@ -1,4 +1,4 @@
-#기술경력서
+# 기술경력서
 
 ## 링크
 
@@ -22,6 +22,10 @@ Blog : https://medium.com/@rowkaxl (medium으로 옮기는중)
       * [결혼준비체크리스트](#결혼준비체크리스트)
       * [모바일 청첩장](#모바일-청첩장)
       * [렉서스 고객용앱](#렉서스-고객용앱)
+      * [파크히어](#파크히어)
+      * [PuzzleWorld](#PuzzleWorld)
+      * [HorrorCall](#HorrorCall)
+      * [뭉카](#뭉카)
    * [개인 프로젝트](#개인-프로젝트)
       * [CYANO](#CYANO)
       * [Youth](#Youth)
@@ -104,7 +108,7 @@ Blog : https://medium.com/@rowkaxl (medium으로 옮기는중)
 ### 모바일 청첩장
 - 소속 : 아이패밀리SC 
 - 역할 : iOS 앱 개발, 서버 개발
-- 사용기술 : Objective-c, php, mysql, AFNetworking
+- 사용기술 : Objective-c, AFNetworking, php, mysql
 - AppStore (https://itunes.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%B2%AD%EC%B2%A9%EC%9E%A5/id933104370)
 
 <img src="images/mobilec/1.jpeg" width="160"/> <img src="images/mobilec/2.jpeg" width="160"/> <img src="images/mobilec/3.jpeg" width="160"/> <img src="images/mobilec/4.jpeg" width="160"/> <img src="images/mobilec/5.jpeg" width="160"/>
@@ -116,6 +120,38 @@ Blog : https://medium.com/@rowkaxl (medium으로 옮기는중)
 - AppStore (https://itunes.apple.com/kr/app/%EB%A0%89%EC%84%9C%EC%8A%A4-%EA%B3%A0%EA%B0%9D%EC%9A%A9%EC%95%B1/id933624318?mt=8)
 
 <img src="images/lexus/1.PNG" width="160"/> <img src="images/lexus/2.PNG" width="160"/> <img src="images/lexus/3.PNG" width="160"/>
+
+### 파크히어
+- 소속 : 에이엔티홀딩스
+- 역할 : iOS 앱 개발
+- 사용기술 : Objective-c
+- 서비스 종료(카카오 T 주차로 변경)
+
+<img src="images/parkhere/1.jpeg" width="160"/><img src="images/parkhere/2.jpeg" width="160"/> <img src="images/parkhere/3.jpeg" width="160"/> <img src="images/parkhere/4.jpeg" width="160"/> <img src="images/parkhere/5.jpeg" width="160"/>
+
+### PuzzleWorld
+- 소속 : 에이엔티홀딩스
+- 역할 : iOS 앱 개발, 서버 개발
+- 사용기술 : Objective-c, cocos2d, php, mysql
+- 서비스 종료
+
+<img src="images/puzzleworld/1.png" width="160"/><img src="images/puzzleworld/2.png" width="160"/> <img src="images/puzzleworld/3.png" width="160"/> <img src="images/puzzleworld/4.png" width="160"/> <img src="images/puzzleworld/5.png" width="160"/>
+
+### HorrorCall
+- 소속 : 에이엔티홀딩스
+- 역할 : iOS 앱 개발
+- 사용기술 : Objective-c
+- 서비스 종료
+
+<img src="images/horrorcall/1.jpeg" width="160"/><img src="images/horrorcall/2.jpeg" width="160"/> <img src="images/horrorcall/3.jpeg" width="160"/> <img src="images/horrorcall/4.jpeg" width="160"/> <img src="images/horrorcall/5.jpeg" width="160"/>
+
+### 뭉카
+- 소속 : 에이엔티홀딩스
+- 역할 : iOS 앱 개발
+- 사용기술 : Objective-c
+- 서비스 종료
+
+<img src="images/moongka/1.jpeg" width="160"/><img src="images/moongka/2.jpeg" width="160"/> <img src="images/moongka/3.jpeg" width="160"/> <img src="images/moongka/4.jpeg" width="160"/> <img src="images/moongka/5.jpeg" width="160"/>
 
 ## 개인 프로젝트
 
