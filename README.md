@@ -1,4 +1,4 @@
-# 기술경력서
+#기술경력서
 
 ## 링크
 
@@ -21,10 +21,12 @@ Blog : https://medium.com/@rowkaxl (medium으로 옮기는중)
       * [아이웨딩](#아이웨딩)
       * [결혼준비체크리스트](#결혼준비체크리스트)
       * [모바일 청첩장](#모바일-청첩장)
-      * [Youth](#Youth)
-      * [힐스킨](#힐스킨)
+      * [렉서스 고객용앱](#렉서스-고객용앱)
    * [개인 프로젝트](#개인-프로젝트)
       * [CYANO](#CYANO)
+      * [Youth](#Youth)
+      * [힐스킨](#힐스킨)
+      * [Schedule](#Schedule)
 
 <!--/toc end-->
 
@@ -76,10 +78,8 @@ Blog : https://medium.com/@rowkaxl (medium으로 옮기는중)
 <img src="images/pandoratv/pandora1.jpg" width="160"/> <img src="images/pandoratv/pandora2.jpg" width="160"/> <img src="images/pandoratv/pandora3.jpg" width="160"/> <img src="images/pandoratv/pandora4.jpg" width="160"/> <img src="images/pandoratv/pandora5.jpg" width="160"/>
 
 ### WorkinMap 
-
-거래처 관리 지도
-
-- 기간: 2016/11/1 ~ 2017/01/31
+- 소속 : 판도라티비 
+- 역할 : iOS 앱 개발
 - 사용기술 : Objectivce-c, Googlemap clustering, Firebase
 - AppStore (https://itunes.apple.com/kr/app/work-in-map-wokinmaeb-eobmu/id1181774972?mt=8)
 
@@ -87,7 +87,7 @@ Blog : https://medium.com/@rowkaxl (medium으로 옮기는중)
 
 ### 아이웨딩
 - 소속 : 아이패밀리SC 
-- 역할 : iOS 앱 개발
+- 역할 : iOS 앱 개발, 서버 개발(일부참여)
 - 사용기술 : Objective-c, AFNetworking, php, mysql, jquery
 - AppStore (https://itunes.apple.com/kr/app/%EC%95%84%EC%9D%B4%EC%9B%A8%EB%94%A9/id406943343?mt=8)
 
@@ -103,17 +103,38 @@ Blog : https://medium.com/@rowkaxl (medium으로 옮기는중)
 
 ### 모바일 청첩장
 - 소속 : 아이패밀리SC 
-- 역할 : iOS 앱 개발
-- 사용기술 : Objective-c, AFNetworking
+- 역할 : iOS 앱 개발, 서버 개발
+- 사용기술 : Objective-c, php, mysql, AFNetworking
 - AppStore (https://itunes.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%B2%AD%EC%B2%A9%EC%9E%A5/id933104370)
 
 <img src="images/mobilec/1.jpeg" width="160"/> <img src="images/mobilec/2.jpeg" width="160"/> <img src="images/mobilec/3.jpeg" width="160"/> <img src="images/mobilec/4.jpeg" width="160"/> <img src="images/mobilec/5.jpeg" width="160"/>
+
+### 렉서스 고객용앱
+- 소속 : 아이패밀리SC 
+- 역할 : iOS 앱 개발
+- 사용기술 : Objective-c, sqlite
+- AppStore (https://itunes.apple.com/kr/app/%EB%A0%89%EC%84%9C%EC%8A%A4-%EA%B3%A0%EA%B0%9D%EC%9A%A9%EC%95%B1/id933624318?mt=8)
+
+<img src="images/lexus/1.PNG" width="160"/> <img src="images/lexus/2.PNG" width="160"/> <img src="images/lexus/3.PNG" width="160"/>
+
+## 개인 프로젝트
+
+### CYANO
+
+수중 다이버들의 기록을 저장하기 위한 앱
+
+- 사용기술 : Objectivce-c, php, mysql, Ble4.0, Serial Communication
+- 역할 : iOS 앱 개발, 서버 개발
+- AppStore (https://itunes.apple.com/kr/app/cyano-divecomputer/id1300443116?mt=8)
+
+<img src="images/watoom/1.png" width="160"/> <img src="images/watoom/2.png" width="160"/> <img src="images/watoom/3.png" width="160"/>
 
 ### Youth
 
 전자스케이트보드 속도 조절 컨트롤러앱
 
-- 사용기술 : Objectivce-c, Ble4.0 Protocol Network
+- 사용기술 : Objectivce-c, php, mysql, Ble4.0, Serial Communication
+- 역할 : iOS 앱 개발, 서버 개발
 - 앱 서비스 종료
 
 <img src="images/es/1.PNG" width="160"/> <img src="images/es/2.PNG" width="160"/> <img src="images/es/3.PNG" width="160"/> <img src="images/es/4.PNG" width="160"/>
@@ -123,17 +144,17 @@ Blog : https://medium.com/@rowkaxl (medium으로 옮기는중)
 피부의 범위를 측정할 수 있도록 특수 제작된 힐스킨 렌즈를 스마트폰의 고화질 카메라에 연결하여 자신의 피부 상태체크
 
 - 사용기술 : Objective-c, sqlite
+- 역할 : iOS 앱 개발
 - AppStore (https://itunes.apple.com/kr/app/healskin/id1050898124?mt=8)
 
 <img src="images/healskin/1.PNG" width="160"/> <img src="images/healskin/2.PNG" width="160"/> <img src="images/healskin/3.PNG" width="160"/> <img src="images/healskin/4.PNG" width="160"/>
 
-## 개인 프로젝트
+### Schedule
 
-### CYANO
+대학교 시간표 앱
 
-수중 다이버들의 기록을 저장하기 위한 앱
+- 사용기술 : Objective-c, sqlite
+- 역할 : iOS 앱 개발
+- 서비스 종료 
 
-- 사용기술 : Objectivce-c, Ble4.0 Protocol Network
-- AppStore (https://itunes.apple.com/kr/app/cyano-divecomputer/id1300443116?mt=8)
-
-<img src="images/watoom/1.png" width="160"/> <img src="images/watoom/2.png" width="160"/> <img src="images/watoom/3.png" width="160"/>
+<img src="images/schedule/1.jpeg" width="160"/> <img src="images/schedule/2.jpeg" width="160"/> <img src="images/schedule/3.jpeg" width="160"/> <img src="images/schedule/4.jpeg" width="160"/> <img src="images/schedule/5.jpeg" width="160"/>
