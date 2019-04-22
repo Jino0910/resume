@@ -6,7 +6,7 @@ Github : https://github.com/Jino0910
 
 Bitbucket : https://bitbucket.org/rowkaxl
 
-Blog : https://medium.com/@rowkaxl (medium으로 옮기는중)
+Blog : https://jino0910.github.io/
 
 ## 목차 
 <!--toc start-->
