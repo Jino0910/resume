@@ -61,7 +61,7 @@ Blog : https://jino0910.github.io/
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift, RxSwift, Realm, SnapKit, Autolayout, Lottie, Jenkins, Fastlane, Fabric, Firebase, Amplitude, MVVM, CleanSwift
 - 기타 : objective-c -> swift로 스팩업 
-- AppStore (https://itunes.apple.com/kr/app/%EB%B3%B4%EB%A7%B5-%EB%B3%B4%ED%97%98%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B2%BD%ED%97%98%EA%B3%BC-%EA%B0%80%EC%B9%98%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%A9%EB%8B%88%EB%8B%A4/id1187829462?mt=8)
+- [AppStore](https://itunes.apple.com/kr/app/%EB%B3%B4%EB%A7%B5-%EB%B3%B4%ED%97%98%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B2%BD%ED%97%98%EA%B3%BC-%EA%B0%80%EC%B9%98%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%A9%EB%8B%88%EB%8B%A4/id1187829462?mt=8)
 
 <img src="images/bomapp_user/bomapp_u_1.png" width="160"/> <img src="images/bomapp_user/bomapp_u_2.png" width="160"/> <img src="images/bomapp_user/bomapp_u_3.png" width="160"/> <img src="images/bomapp_user/bomapp_u_4.png" width="160"/> <img src="images/bomapp_user/bomapp_u_5.png" width="160"/>
 
@@ -69,7 +69,7 @@ Blog : https://jino0910.github.io/
 - 소속 : 보맵 
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift, RxSwift, Realm, SnapKit, Autolayout, Lottie, Jenkins, Fastlane, Fabric, Firebase, Amplitude, MVVM, CleanSwift
-- AppStore (https://itunes.apple.com/kr/app/%EB%B3%B4%EB%A7%B5-%EC%84%A4%EA%B3%84%EC%82%AC%EC%9A%A9-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%95%9C-%EC%98%81%EC%97%85%EC%9D%98-%EC%8B%9C%EC%9E%91/id1215542257)
+- [AppStore](https://itunes.apple.com/kr/app/%EB%B3%B4%EB%A7%B5-%EC%84%A4%EA%B3%84%EC%82%AC%EC%9A%A9-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%95%9C-%EC%98%81%EC%97%85%EC%9D%98-%EC%8B%9C%EC%9E%91/id1215542257)
 
 <img src="images/bomapp_fc/bomapp_f_1.png" width="160"/> <img src="images/bomapp_fc/bomapp_f_2.png" width="160"/> <img src="images/bomapp_fc/bomapp_f_3.png" width="160"/> <img src="images/bomapp_fc/bomapp_f_4.png" width="160"/> <img src="images/bomapp_fc/bomapp_f_5.png" width="160"/>
 
@@ -78,7 +78,7 @@ Blog : https://jino0910.github.io/
 - 소속 : 판도라티비 
 - 역할 : iOS 앱 개발
 - 사용기술 : Objective-c, AFNetworking, PureLayout, Pop, Fabric
-- AppStore (https://itunes.apple.com/kr/app/pandoratv/id402122832?mt=8)
+- [AppStore](https://itunes.apple.com/kr/app/pandoratv/id402122832?mt=8)
 
 <img src="images/pandoratv/pandora1.jpg" width="160"/> <img src="images/pandoratv/pandora2.jpg" width="160"/> <img src="images/pandoratv/pandora3.jpg" width="160"/> <img src="images/pandoratv/pandora4.jpg" width="160"/> <img src="images/pandoratv/pandora5.jpg" width="160"/>
 
@@ -86,7 +86,7 @@ Blog : https://jino0910.github.io/
 - 소속 : 판도라티비 
 - 역할 : iOS 앱 개발
 - 사용기술 : Objectivce-c, Googlemap clustering, Firebase
-- AppStore (https://itunes.apple.com/kr/app/work-in-map-wokinmaeb-eobmu/id1181774972?mt=8)
+- [AppStore](https://itunes.apple.com/kr/app/work-in-map-wokinmaeb-eobmu/id1181774972?mt=8)
 
 <img src="images/workinmap/workinmap1.jpeg" width="160"/> <img src="images/workinmap/workinmap2.jpeg" width="160"/> <img src="images/workinmap/workinmap3.jpeg" width="160"/> <img src="images/workinmap/workinmap4.jpeg" width="160"/> <img src="images/workinmap/workinmap5.jpeg" width="160"/>
 
@@ -94,7 +94,7 @@ Blog : https://jino0910.github.io/
 - 소속 : 아이패밀리SC 
 - 역할 : iOS 앱 개발, 서버 개발(일부참여)
 - 사용기술 : Objective-c, AFNetworking, php, mysql, jquery
-- AppStore (https://itunes.apple.com/kr/app/%EC%95%84%EC%9D%B4%EC%9B%A8%EB%94%A9/id406943343?mt=8)
+- [AppStore](https://itunes.apple.com/kr/app/%EC%95%84%EC%9D%B4%EC%9B%A8%EB%94%A9/id406943343?mt=8)
 
 <img src="images/iwedding/iwedding1.jpg" width="160"/> <img src="images/iwedding/iwedding2.jpg" width="160"/> <img src="images/iwedding/iwedding3.jpg" width="160"/> <img src="images/iwedding/iwedding4.jpg" width="160"/> <img src="images/iwedding/iwedding5.jpg" width="160"/>
 
@@ -102,7 +102,7 @@ Blog : https://jino0910.github.io/
 - 소속 : 아이패밀리SC 
 - 역할 : iOS 앱 개발
 - 사용기술 : Objective-c, AFNetworking
-- AppStore (https://itunes.apple.com/kr/app/%EA%B2%B0%ED%98%BC%EC%A4%80%EB%B9%84%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8/id871072606)
+- [AppStore](https://itunes.apple.com/kr/app/%EA%B2%B0%ED%98%BC%EC%A4%80%EB%B9%84%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8/id871072606)
 
 <img src="images/checklist/checklist1.jpg" width="160"/> <img src="images/checklist/checklist2.jpg" width="160"/> <img src="images/checklist/checklist3.jpg" width="160"/> <img src="images/checklist/checklist4.jpg" width="160"/> <img src="images/checklist/checklist5.jpg" width="160"/> <img src="images/checklist/1.PNG" width="160"/> <img src="images/checklist/2.PNG" width="160"/> <img src="images/checklist/3.PNG" width="160"/>
 
@@ -110,7 +110,7 @@ Blog : https://jino0910.github.io/
 - 소속 : 아이패밀리SC 
 - 역할 : iOS 앱 개발, 서버 개발
 - 사용기술 : Objective-c, AFNetworking, php, mysql
-- AppStore (https://itunes.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%B2%AD%EC%B2%A9%EC%9E%A5/id933104370)
+- [AppStore](https://itunes.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%B2%AD%EC%B2%A9%EC%9E%A5/id933104370)
 
 <img src="images/mobilec/1.jpeg" width="160"/> <img src="images/mobilec/2.jpeg" width="160"/> <img src="images/mobilec/3.jpeg" width="160"/> <img src="images/mobilec/4.jpeg" width="160"/> <img src="images/mobilec/5.jpeg" width="160"/>
 
@@ -118,7 +118,7 @@ Blog : https://jino0910.github.io/
 - 소속 : 아이패밀리SC 
 - 역할 : iOS 앱 개발
 - 사용기술 : Objective-c, sqlite
-- AppStore (https://itunes.apple.com/kr/app/%EB%A0%89%EC%84%9C%EC%8A%A4-%EA%B3%A0%EA%B0%9D%EC%9A%A9%EC%95%B1/id933624318?mt=8)
+- [AppStore](https://itunes.apple.com/kr/app/%EB%A0%89%EC%84%9C%EC%8A%A4-%EA%B3%A0%EA%B0%9D%EC%9A%A9%EC%95%B1/id933624318?mt=8)
 
 <img src="images/lexus/1.PNG" width="160"/> <img src="images/lexus/2.PNG" width="160"/> <img src="images/lexus/3.PNG" width="160"/>
 
@@ -168,7 +168,7 @@ Blog : https://jino0910.github.io/
 
 - 사용기술 : Objectivce-c, php, mysql, Ble4.0, Serial Communication
 - 역할 : iOS 앱 개발, 서버 개발
-- AppStore (https://itunes.apple.com/kr/app/cyano-divecomputer/id1300443116?mt=8)
+- [AppStore](https://itunes.apple.com/kr/app/cyano-divecomputer/id1300443116?mt=8)
 
 <img src="images/watoom/1.png" width="160"/> <img src="images/watoom/2.png" width="160"/> <img src="images/watoom/3.png" width="160"/>
 
@@ -188,7 +188,7 @@ Blog : https://jino0910.github.io/
 
 - 사용기술 : Objective-c, sqlite
 - 역할 : iOS 앱 개발
-- AppStore (https://itunes.apple.com/kr/app/healskin/id1050898124?mt=8)
+- [AppStore](https://itunes.apple.com/kr/app/healskin/id1050898124?mt=8)
 
 <img src="images/healskin/1.PNG" width="160"/> <img src="images/healskin/2.PNG" width="160"/> <img src="images/healskin/3.PNG" width="160"/> <img src="images/healskin/4.PNG" width="160"/>
 
